@@ -8,8 +8,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 /**
- * Created by WE on 16.03.2017.
- */
+ + * Java. Swing game "Cross-zero"
+ + * @author Aleksey Malyshev
+ + * @version 1.0.1 dated March 15, 2017
+ + */
 public class WindowGameSelection extends JFrame {
 
     public static final int SIZE_WIDTH = 400;
